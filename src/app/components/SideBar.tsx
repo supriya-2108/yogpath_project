@@ -22,7 +22,7 @@ const SideBar = () => {
           <Link href="/blogs">Blogs</Link>
         </li>
         <li>
-          <Link href="/login">Login</Link>
+          <Link href="#">User</Link>
         </li>
       </ul>
     </div>
