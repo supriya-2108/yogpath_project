@@ -38,10 +38,10 @@ const SigninPage: React.FC = () => {
         password: "",
       });
 
-      alert("Registered successfully!"); // Optionally, show a success message
+      alert("Registered successfully!");
     } catch (error) {
       console.error("Error registering:", error);
-      alert("Registration failed. Please try again."); // Handle error
+      alert("Registration failed. Please try again.");
     }
   };
 
